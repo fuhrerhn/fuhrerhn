@@ -1,7 +1,7 @@
 <!-- ==========================
 ✨ Welcome Section
 ========================== -->
-<h1 align="center">👋 Hi there, I'm **fuhrerhn**!</h1>
+<h1 align="center">👋 Hi there, I'm Farhan Fitran!</h1>
 <p align="center">
   A passionate developer navigating the realms of code and creativity.
 </p>
