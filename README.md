@@ -61,4 +61,3 @@ I believe good ML engineering isn't just about training models. It's about under
 
 ---
 
-<sub>This profile is a work in progress — just like every good model.</sub>
