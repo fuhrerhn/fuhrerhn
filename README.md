@@ -1,83 +1,60 @@
-<!-- ==========================
-✨ Welcome Section
-========================== -->
-<h1 align="center">👋 Hi there, I'm Farhan Fitran!</h1>
-<p align="center">
-  A passionate developer navigating the realms of code and creativity.
+# Farhan Fitran Maulana
+
+**Aspiring Machine Learning Engineer · Institut Teknologi Sepuluh Nopember, Surabaya**
+
+I'm a computer science student with a growing focus on machine learning and data-driven systems. My current interest lies in building models that extract meaningful patterns from data — particularly in the areas of time series analysis and data analytics.
+
+I believe good ML engineering isn't just about training models. It's about understanding the data, asking the right questions, and delivering results that are interpretable and actionable.
+
+---
+
+## Focus Areas
+
+- **Time Series & Forecasting** — Modeling temporal patterns for predictive insights
+- **Data Analytics** — Transforming raw data into clear, actionable understanding
+- **Machine Learning Fundamentals** — Continuously strengthening core theory and implementation
+
+---
+
+## Tech Stack
+
+**Languages & Data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Machine Learning**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+---
+
+## Currently
+
+- Studying **Informatics Engineering** at ITS Surabaya
+- Building hands-on ML projects to deepen practical skills
+- Exploring time series forecasting and data pipeline workflows
+- Open to collaboration, learning opportunities, and meaningful projects
+
+---
+
+## GitHub Stats
+
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=fuhrerhn&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuhrerhn&layout=compact&hide_border=true&theme=default" />
 </p>
 
 ---
 
-<!-- ==========================
-⚡ About Me
-========================== -->
-### ​ About Me
-- 🌱 Currently exploring **[Your Main Stack or Technology]** (e.g., React, Node.js, Python, Rust…).
-- 👯 Open to collaborating on **innovative and impactful projects**.
-- 📝 Love writing technical blogs and sharing knowledge.
-- 💬 Ask me about **[Your Expertise/Topic]**.
-- 📫 Reach me at: [your.email@example.com](mailto:your.email@example.com) or connect on [LinkedIn/Twitter/etc.](#)
-- 😄 Pronouns: He / Him (atau lainnya sesuai preferensi).
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-farhanfitran-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/farhanfitran)
+[![Instagram](https://img.shields.io/badge/Instagram-farhan.fitran-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/farhan.fitran)
 
 ---
 
-<!-- ==========================
-🔥 Tech Stack & Tools
-========================== -->
-###  Tech Stack & Tools
-<div align="center">
-  <!-- Example icons, bisa dicari di https://simpleicons.org/ -->
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white" alt="JavaScript" />  
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />  
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white" alt="React" />  
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" />  
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" />  
-  <!-- Tambahkan sesuai kebutuhan kamu -->
-</div>
-
----
-
-<!-- ==========================
-📂 Featured Projects
-========================== -->
-###  Featured Projects
-| Project | Description | Technologies |
-|--------:|-------------|--------------|
-| **Project A** | One-line description of Project A | Tech A, Tech B |
-| **Project B** | One-line description of Project B | Tech C, Tech D |
-| **Project C** | One-line description of Project C | Tech E, Tech F |
-
-*(Tambahkan link ke repo dengan format `[Project A](link-ke-repo)` jika sudah tersedia.)*
-
----
-
-<!-- ==========================
-📈 GitHub Stats
-========================== -->
-###  GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fuhrerhn&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-
----
-
-<!-- ==========================
-⭐ More Cool Widgets (Optional)
-========================== -->
-###  More Cool Widgets
-<!-- Bisa tambahkan GitHub Streak, Wakatime, atau library lain seperti: -->
-- ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=fuhrerhn&theme=dark&mode=weekly)  
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuhrerhn&layout=compact&theme=dark)](#)
-
----
-
-###  How to Use This Template
-1. Ganti placeholder seperti “Project A” dan “Tech A” dengan informasi nyata dari repositori kamu.
-2. Update bagian **About Me** sesuai dengan siapa kamu, apa yang kamu kerjakan, dan ke mana orang bisa menghubungimu.
-3. Tambahkan atau hapus badge teknologi sesuai dengan yang kamu gunakan.
-4. Jika kamu ingin mempercantik tampilan, bisa tambahkan GIF kecil, animasi, atau font unik (pastikan tetap ringan).
-
----
-
-Dengan README seperti ini, profil GitHub-mu akan terlihat profesional, penuh energi, dan mampu menarik perhatian rekan developer maupun kolaborator potensial. Kalau kamu mau gaya tertentu — misalnya minimalis, futuristik, atau tema warna khusus — tinggal katakan saja, saya bantu kembangkan!
-::contentReference[oaicite:0]{index=0}
+<sub>This profile is a work in progress — just like every good model.</sub>
