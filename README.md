@@ -34,7 +34,7 @@ I believe good ML engineering isn't just about training models. It's about under
 
 ## Currently
 
-- Studying **Informatics Engineering** at ITS Surabaya
+- Studying **Information Systems** at ITS Surabaya
 - Building hands-on ML projects to deepen practical skills
 - Exploring time series forecasting and data pipeline workflows
 - Open to collaboration, learning opportunities, and meaningful projects
