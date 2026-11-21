@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Farhan 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Farhan+%F0%9F%91%8B;Aspiring+Machine+Learning+Engineer;Computer+Vision+%C2%B7+Time+Series+%C2%B7+End-to-End+ML" alt="Hi, I'm Farhan 👋" /></a>
 
 **Information Systems @ ITS Surabaya · Aspiring Machine Learning Engineer**
 
