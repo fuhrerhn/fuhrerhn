@@ -10,6 +10,7 @@
 I enjoy turning data into useful insights and building ML applications.<br/>
 Currently exploring **computer vision**, **time series forecasting**, and **end-to-end ML workflows**.
 
+[![Website](https://img.shields.io/badge/Website-farhanfitran.my.id-F5A524?style=flat-square&logo=googlechrome&logoColor=black)](https://farhanfitran.my.id)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhanfitran/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/farhan.fitran/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:farhanfitran123@gmail.com)
