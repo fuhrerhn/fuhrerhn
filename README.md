@@ -48,6 +48,15 @@ Currently exploring **computer vision**, **time series forecasting**, and **end-
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white)
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fuhrerhn/fuhrerhn/output/github-snake-dark.svg" />
+    <img alt="Snake eating my GitHub contributions" src="https://raw.githubusercontent.com/fuhrerhn/fuhrerhn/output/github-snake.svg" />
+  </picture>
+</p>
+
 ### 📊 GitHub Stats
 
 <p align="center">
