@@ -51,13 +51,6 @@ Currently exploring **computer vision**, **time series forecasting**, and **end-
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fuhrerhn/fuhrerhn/output/github-snake-dark.svg" />
-    <img alt="Snake eating my GitHub contributions" src="https://raw.githubusercontent.com/fuhrerhn/fuhrerhn/output/github-snake.svg" />
-  </picture>
-</p>
-
-<p align="center">
   <img alt="Purple snake eating my GitHub contributions" src="https://raw.githubusercontent.com/fuhrerhn/fuhrerhn/output/github-snake-purple.svg" />
 </p>
 
