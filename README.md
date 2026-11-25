@@ -57,6 +57,10 @@ Currently exploring **computer vision**, **time series forecasting**, and **end-
   </picture>
 </p>
 
+<p align="center">
+  <img alt="Purple snake eating my GitHub contributions" src="https://raw.githubusercontent.com/fuhrerhn/fuhrerhn/output/github-snake-purple.svg" />
+</p>
+
 ### 📊 GitHub Stats
 
 <p align="center">
